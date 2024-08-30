@@ -1,0 +1,25 @@
+[
+  {
+    "database_name": "users",
+    "database_description": "description of database",
+    "database_path": "/path_to_database",
+    "tables": [
+      {
+        "name": "QWE",
+        "fields": [{"name": "username", "ftype": "string"}]
+      }
+    ]
+  },
+  {
+    "database_name": "logins",
+    "database_description": "description of database",
+    "database_path": "/path_to_database",
+    "tables": [
+      {
+        "name": "QWE",
+        "fields": [{"name": "username", "ftype": "string"}]
+      }
+    ]
+    
+  }
+]
